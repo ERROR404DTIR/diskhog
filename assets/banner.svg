@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-label="diskhog animated bars">
+  <rect width="800" height="220" rx="14" fill="#0d1117"/>
+  <g font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="16" fill="#e6edf3">
+    <text x="28" y="40" font-size="22" font-weight="bold">diskhog</text>
+    <text x="150" y="40" fill="#8b949e">who is eating your disk?</text>
+
+    <text x="28" y="82">movies/</text>
+    <rect x="150" y="66" height="20" rx="4" fill="#f85149" width="0">
+      <animate attributeName="width" values="0;560;560;0" keyTimes="0;0.35;0.9;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="28" y="122">node_modules/</text>
+    <rect x="150" y="106" height="20" rx="4" fill="#d29922" width="0">
+      <animate attributeName="width" values="0;0;380;380;0" keyTimes="0;0.08;0.43;0.9;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="28" y="162">backups/</text>
+    <rect x="150" y="146" height="20" rx="4" fill="#58a6ff" width="0">
+      <animate attributeName="width" values="0;0;230;230;0" keyTimes="0;0.16;0.5;0.9;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="28" y="202">photos/</text>
+    <rect x="150" y="186" height="20" rx="4" fill="#3fb950" width="0">
+      <animate attributeName="width" values="0;0;120;120;0" keyTimes="0;0.24;0.56;0.9;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
