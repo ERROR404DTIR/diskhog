@@ -1,4 +1,6 @@
 <p align="center">
+
+<p align="center"><img src="assets/readme-banner.svg" alt="Animated Diskhog disk usage banner" width="100%"></p>
   <img src="assets/banner.svg" alt="diskhog animated bars" width="800">
 </p>
 
